@@ -1,0 +1,6 @@
+framework module BaseLibiOS {
+  umbrella header "BaseLibiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
